@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=300&id=9b5wowKIlo9d&format=png&color=000000" alt="Scanner"/>
 </p>
+
 ## Features
 
 - Scan the active devices in your local network
@@ -18,8 +19,8 @@
 To use PYNetworkScanner, you need to have Python installed on your system. You can clone the repository and run the script directly.
 
 ```bash
-git clone https://github.com//link
-cd project/
+git clone https://github.com/Sanjay-vcloud/PYNetworkScanner.git
+cd NetworkScanner
 ```
 
 ## Usage
